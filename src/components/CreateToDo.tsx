@@ -25,7 +25,7 @@ function CreateToDo() {
         })}
         placeholder="Write a to do"
       />
-      <button>Add</button>
+      <button>+</button>
     </form>
   );
 }
